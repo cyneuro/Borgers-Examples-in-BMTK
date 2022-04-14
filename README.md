@@ -12,11 +12,13 @@ The goal of these computational models is to display general network features an
 ### Requirements
  1) Python 3.6 or 2.7
  
- 2) Latest BMTK
+ 2) BMTK version 0.0.9
  
- 3) Latest NEURON
+ 3) Neuron version 8.0.0
+
+ 4) H5py version 2.9.0 
  
- 4) Latest jupyter notebook
+ 5) Latest jupyter notebook
  
  Compile all .mod files in each example by using mknrndll Windows app or nrnivmodl command in terminal.
 
