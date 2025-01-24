@@ -1,6 +1,6 @@
 # Computational Neuronal Models of Entrainment, Synchronization, and Oscillations
 
-Examples by Matthew Stroud ---
+Examples by Matthew Stroud and Gregory Glickert ---
 Thanks to Tyler Banks, Ben Latimer, Pete Canfield, and Satish Nair for assisting in the creation of these models.
 
 These examples were inspired by examples in Christophe Borgers' book, "Introduction to Modeling Neuronal Dynamics".
@@ -10,16 +10,18 @@ Some features of the original examples are ignored while implementing similar ne
 The goal of these computational models is to display general network features and their affects apart from raw numerical solutions when possible. 
 
 ### Requirements
- 1) Python 3.6 or 2.7
+ 1) Python 3.6 or greater
  
- 2) BMTK version 0.0.9
+ 2) BMTK version 0.0.9 or greater
  
- 3) Neuron version 8.0.0
+ 3) Neuron version between 7.7.1 and 8.2.4
 
  4) H5py version 2.9.0 
  
  5) Latest jupyter notebook
  
+Notebooks can also all be ran in Google colab by clicking the 'Open in Colab' button at the top of every notebook
+
  Compile all .mod files in each example by using mknrndll Windows app or nrnivmodl command in terminal.
 
 Recommended: Download latest Anaconda app to download each of the above in an Anaconda Environment. You can then open jupyter notebooks from the Anaconda terminal.
