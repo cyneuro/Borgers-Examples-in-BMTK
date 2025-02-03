@@ -73,7 +73,7 @@ Omit: Sections 31.1, 31.2, 31.3, 31.4, 31.5
 
 ### Chapter 33: Beta Rhythms
 
-Section 33.1 – Figure 33.2: PINB_2 (page 295)
+Section 33.1 – Figure 33.3: PINB_3 (page 295)
 Omit: Section 33.2 and 33.3
 
 ## Chapter 5 Python implementations
